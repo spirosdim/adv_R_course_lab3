@@ -7,4 +7,5 @@ Author: Dimitriadis Spyridon, Mengxin Liu
 Maintainer: Dimitriadis Spyridon <spydi472@student.liu.se>
 Description: Euclidean and Dilkstra
 License: MIT License
+Encoding: UTF-8
 RoxygenNote: 6.1.1

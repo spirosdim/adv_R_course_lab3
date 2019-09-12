@@ -1,3 +1,5 @@
+#' Euclidean division
+#'
 euclidean <- function(){
   
 }
