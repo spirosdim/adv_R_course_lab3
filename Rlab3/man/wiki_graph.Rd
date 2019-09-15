@@ -4,13 +4,17 @@
 \name{wiki_graph}
 \alias{wiki_graph}
 \title{wiki_graph}
-\format{An object of class \code{data.frame} with 18 rows and 3 columns.}
+\format{A data frame with three variables (v1, v2 and w).
+\describe{
+  \item{v1}{the first edge of the graph}
+  \item{v2}{the second edge of the graph}
+  \item{w}{the weight of the edge}
+}}
 \usage{
 wiki_graph
 }
 \description{
-\describe{ The wiki graph to use it for Dijkstra algorithm.
-}
+wiki_graph
 }
 \references{
 \url{https://en.wikipedia.org/wiki/Graph#Mathematics}

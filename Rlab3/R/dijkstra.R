@@ -8,7 +8,7 @@
 #' dijkstra(wiki_graph, 1)
 #' dijkstra(wiki_graph, 3)
 dijkstra <- function(graph,init_node){
-  stopifnot(is.data.frame(graph),is.numeric(init_node))
+  stopifnot(is.data.frame(graph),is.numeric(init_node), init_node%in%graph$v1)
   nodes <- length(unique(c(graph$v1,graph$v2)))
   Q <- c(1:nodes)
   dist <- rep(Inf,nodes)

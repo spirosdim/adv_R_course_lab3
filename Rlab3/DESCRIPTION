@@ -4,9 +4,10 @@ Title: Euclidean and Dilkstra
 Version: 1.0
 Date: 2019-09-12
 Author: Dimitriadis Spyridon, Mengxin Liu
-Maintainer: Dimitriadis Spyridon <spydi472@student.liu.se>
+Maintainer: <spydi472@student.liu.se>
 Description: Euclidean and Dilkstra
 License: MIT License
 Encoding: UTF-8
 RoxygenNote: 6.1.1
 LazyData: true
+Suggests: testthat
