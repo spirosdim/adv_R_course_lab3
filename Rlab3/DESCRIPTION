@@ -9,3 +9,4 @@ Description: Euclidean and Dilkstra
 License: MIT License
 Encoding: UTF-8
 RoxygenNote: 6.1.1
+LazyData: true

@@ -4,8 +4,20 @@
 \alias{dijkstra}
 \title{Dijkstra Algorithm}
 \usage{
-dijkstra()
+dijkstra(graph, init_node)
+}
+\arguments{
+\item{graph}{A data frame that represents the graph.}
+
+\item{init_node}{A number that represents the starting node .}
+}
+\value{
+Shortest path to every other node
 }
 \description{
 Dijkstra Algorithm
+}
+\examples{
+dijkstra(wiki_graph, 1)
+dijkstra(wiki_graph, 3)
 }

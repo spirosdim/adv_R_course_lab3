@@ -4,8 +4,23 @@
 \alias{euclidean}
 \title{Euclidean division}
 \usage{
-euclidean()
+euclidean(a, b)
+}
+\arguments{
+\item{a}{A number.}
+
+\item{b}{A number.}
+}
+\value{
+The Greatest Common Divisor of \code{a} and \code{b}.
 }
 \description{
-Euclidean division
+Euclidean alorithm finds the Greatest Common Divisor of two integers
+}
+\examples{
+euclidean(123612,13892347912)
+euclidean(100,1000)
+}
+\references{
+\url{https://en.wikipedia.org/wiki/Euclidean_algorithm}
 }
