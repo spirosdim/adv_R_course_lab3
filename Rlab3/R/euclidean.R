@@ -2,7 +2,7 @@
 #'
 #' @param a A number.
 #' @param b A number.
-#' @return The Greatest Common Divisor of \code{a} and \code{b}.
+#' @return A number, the Greatest Common Divisor of \code{a} and \code{b}.
 #' @description Euclidean alorithm finds the Greatest Common Divisor of two integers
 #' @references \url{https://en.wikipedia.org/wiki/Euclidean_algorithm}
 #' @examples

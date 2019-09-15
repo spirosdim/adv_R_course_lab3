@@ -2,7 +2,7 @@
 #'
 #' @param graph A data frame that represents the graph.
 #' @param  init_node A number that represents the starting node .
-#' @return Shortest path to every other node
+#' @return A vector, the shortest path to every other node.
 #' @references \url{https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm}
 #' @examples
 #' dijkstra(wiki_graph, 1)
