@@ -6,6 +6,7 @@ This is an R package for lab 3 of the course Advanced Programming in R, Linkopin
 
 **Group 19**
 
-Dimitriadis Spyridon  spydi472
 
-Mengxin Liu  menli358
+* Dimitriadis Spyridon - spydi472
+
+* Mengxin Liu - menli358
