@@ -5,7 +5,7 @@ Version: 1.0
 Date: 2019-09-12
 Author: Dimitriadis Spyridon, Mengxin Liu
 Maintainer: <spydi472@student.liu.se>
-Description: Euclidean and Dilkstra
+Description: Euclidean and Dilkstra algorithm.
 License: MIT License
 Encoding: UTF-8
 RoxygenNote: 6.1.1
