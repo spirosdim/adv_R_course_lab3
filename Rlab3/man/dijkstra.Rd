@@ -12,7 +12,7 @@ dijkstra(graph, init_node)
 \item{init_node}{A number that represents the starting node .}
 }
 \value{
-Shortest path to every other node
+A vector, the shortest path to every other node.
 }
 \description{
 Dijkstra Algorithm

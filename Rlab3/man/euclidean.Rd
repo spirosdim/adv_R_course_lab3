@@ -12,7 +12,7 @@ euclidean(a, b)
 \item{b}{A number.}
 }
 \value{
-The Greatest Common Divisor of \code{a} and \code{b}.
+A number, the Greatest Common Divisor of \code{a} and \code{b}.
 }
 \description{
 Euclidean alorithm finds the Greatest Common Divisor of two integers

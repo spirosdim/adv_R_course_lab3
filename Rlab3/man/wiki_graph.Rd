@@ -14,7 +14,8 @@
 wiki_graph
 }
 \description{
-wiki_graph
+This dataset contains three variables (v1, v2 and w) which are the edges 
+of the graph (from v1 to v2) with the weight of the edge (w).
 }
 \references{
 \url{https://en.wikipedia.org/wiki/Graph#Mathematics}
